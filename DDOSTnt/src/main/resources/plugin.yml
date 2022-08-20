@@ -1,0 +1,12 @@
+name: DDOSTNT
+version: '${project.version}'
+main: net.crystalmc.ddostnt.DDOSTNT
+api-version: 1.13
+authors: [ WizardChan, CrystalMC ]
+description: A TNT which IPBans a player for a given amount of time.
+website: www.crystalmc.net
+
+commands:
+  giveddostnt:
+    description: Gives a player DDOSTNT
+    aliases: [ddostnt]
